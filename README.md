@@ -1,6 +1,6 @@
 # Conway's Game of Life
 
-This project is a version of Conway's (Game of Life)[https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life] written in (React)[https://reactjs.org/].
+This project is a version of Conway's [Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) written in [React](https://reactjs.org/).
 
 Currently the grid generated is a 25x25 grid with cells starting state determined randomly.
 
